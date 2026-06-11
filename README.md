@@ -1,4 +1,4 @@
-# BookStore Challenge
+# BookStore Api DemoQA
 
 Projeto de automação de testes de API utilizando Node.js, Jest e Axios.
 
