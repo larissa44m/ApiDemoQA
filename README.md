@@ -11,7 +11,7 @@ Antes de executar o projeto, é necessário instalar:
 
 Para verificar se a instalação foi realizada com sucesso, insira no Terminal da IDE:
 
-bash
+Inserir no terminal da IDE:
 node -v
 npm -v
 
@@ -20,7 +20,7 @@ npm -v
 
 Criar o arquivo package.json:
 
-bash
+Inserir no terminal:
 npm init -y
 
 
@@ -30,7 +30,7 @@ npm init -y
 
 Framework utilizado para execução dos testes.
 
-bash
+Inserir no terminal:
 npm install --save-dev jest
 
 
@@ -38,7 +38,7 @@ npm install --save-dev jest
 
 Biblioteca utilizada para realizar as requisições HTTP.
 
-bash
+Inserir no terminal:
 npm install axios
 
 
@@ -77,13 +77,13 @@ project
 
 Executar todos os testes:
 
-bash
+Inserir no terminal:
 npm test
 
 
 Executar um arquivo específico:
 
-bash
+Inserir no terminal:
 npx jest tests/bookstore.test.js
 
 ## Cenários automatizados
