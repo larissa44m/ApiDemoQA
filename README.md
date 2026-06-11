@@ -56,7 +56,7 @@ json
 
 ## Estrutura do projeto
 
-text
+```text
 project
 │
 ├── services
@@ -71,7 +71,7 @@ project
 │
 ├── package.json
 └── README.md
-
+```
 
 ## Execução dos testes
 
