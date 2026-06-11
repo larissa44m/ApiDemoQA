@@ -1,6 +1,6 @@
 # BookStore Api DemoQA
 
-Projeto de automação de testes de API utilizando Node.js, Jest e Axios.
+Projeto de automação de testes de API utilizando Javascript ao uso de Node.js, Jest e Axios.
 
 ## Pré-requisitos
 
