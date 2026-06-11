@@ -46,13 +46,13 @@ npm install axios
 
 Adicionar o script de execução dos testes, no arquivo package.json, inserir a seguinte informação:
 
-json
+```json
 {
   "scripts": {
     "test": "jest"
   }
 }
-
+```
 
 ## Estrutura do projeto
 
